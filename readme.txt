@@ -7,6 +7,17 @@
 
 
 ******Instructions************************************************
+
+requirements: Linux with openGl and other libraries pre-installed
+	installtion:
+		1. Linux
+			a) RedHat Linux
+				yum install freeglut-devel
+
+			b) Debian (e.g. Ubuntu)
+				apt-get install freeglut3-dev
+		2. OS/X
+			already installed. enjoy!
 basic:
     Type "make execute num_threads=n", where n is number 
     of threads i.e. balls
