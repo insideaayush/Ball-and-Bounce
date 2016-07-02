@@ -2,14 +2,14 @@
 ***Authors:Aayush Gautam , Akash Tanwar                        ***
 ***DESCRIPTION:Screensaver with advance functionality          ***
 ***Date:25-01-2015                                             ***
-***TIME:22:37                                                  ***
+***Time:22:37                                                  ***
 ******************************************************************
 
 
 ******Instructions************************************************
 
 requirements: Linux with openGl and other libraries pre-installed
-	installtion:
+	installtion (openGl):
 		1. Linux
 			a) RedHat Linux
 				yum install freeglut-devel
@@ -18,6 +18,11 @@ requirements: Linux with openGl and other libraries pre-installed
 				apt-get install freeglut3-dev
 		2. OS/X
 			already installed. enjoy!
+	installation (LaTex):
+		1. Ubuntu
+			sudo apt install texlive-latex-base
+	
+
 basic:
     Type "make execute num_threads=n", where n is number 
     of threads i.e. balls
