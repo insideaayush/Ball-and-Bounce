@@ -1,0 +1,6 @@
+{
+  "name": "Ball-and-bounce",
+  "tagline": "Its a 3-D animation using openGL and multithreading. User can also control the camera and other functions like zoom in zoom out is also available",
+  "body": "### Hi Everyone,\r\nWell this was my one of the first project in beginning of my second semester at IIT Delhi. Its based on OpenGl and Threads. It's written in C++. It can be useful as a starting code for OpenGL basics projects. Feel free to use it!\r\n\r\n### Authors and Contributors\r\nMe (@insideaayush) and My Classmate @akashtanwar096 are co-creater of this project. \r\n\r\n### Support or Contact\r\nif you have any problem running this then contact me at aayush.gautam924@gmail.com\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
